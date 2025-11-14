@@ -15,6 +15,42 @@ Olá! Me chamo Thaissa Evellin, sou natural do Ceará. Atualmente curso o Bachar
 
 <img 
     align="left" 
+    alt="Jupyter" 
+    title="Jupyter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Numpy" 
+    title="Numpy"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MatPlotLib" 
+    title="MatPlotLib"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="C" 
     title="C"
     width="30px" 
@@ -30,16 +66,6 @@ Olá! Me chamo Thaissa Evellin, sou natural do Ceará. Atualmente curso o Bachar
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-
-<img 
-    align="left" 
-    alt="Jupyter" 
-    title="Jupyter"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
-/>
-
 
 <br/>
 <br/>
