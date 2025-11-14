@@ -31,6 +31,19 @@ Olá! Me chamo Thaissa Evellin, sou natural do Ceará. Atualmente curso o Bachar
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Jupyter" 
+    title="Jupyter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
+/>
+
+
+<br/>
+<br/>
+
 ### Estatísticas
 
 <p>
