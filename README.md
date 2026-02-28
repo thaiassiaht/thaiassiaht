@@ -1,6 +1,7 @@
 # 💻 Thaissa Evellin
 
-Olá! Me chamo Thaissa Evellin. Atualmente curso o Bacharelado de Ciência da Computação pelo IFCE. Tenho o foco em Ciência de Dados e IA Aplicada.
+Olá! Me chamo Thaissa Evellin. Sou estudante do Bacharelado em Ciências da Computação pelo IFCE, com 2 anos de experiencia academica em IA e Dados. Sou apaixonada em promover soluções para resolver desafios e me desenvolver através de projetos mão na massa. Minha trejetoria inclui uma residencia em ciência de dados, onde puder conhecer e aprimorar meus conhecimentos em Aprendizado de máquina e manipulação de dados
+
 ## Linguagens e Ferramentas
 
 <img 
